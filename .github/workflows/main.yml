@@ -6,7 +6,6 @@ on:
       - master
     paths-include:
       - "Dockerfile"
-      - "assume-role"
 
 env:
   IMAGE_NAME: dwpdigital/packer
